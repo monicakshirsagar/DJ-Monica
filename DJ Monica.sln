@@ -5,19 +5,88 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{388C184A-278C-4AEF-94B2-AEC95772F486}"
 	ProjectSection(SolutionItems) = preProject
+		AboutDJ.html = AboutDJ.html
+		Contact.html = Contact.html
+		Gallery.html = Gallery.html
 		Home.html = Home.html
+		Music.html = Music.html
+		PersonalInfo.html = PersonalInfo.html
+		Venues.html = Venues.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{156D1090-EA98-4078-AAE9-2DC994FD351C}"
 	ProjectSection(SolutionItems) = preProject
 		Scripts\bootstrap.bundle.js = Scripts\bootstrap.bundle.js
+		Scripts\bootstrap.bundle.js.map = Scripts\bootstrap.bundle.js.map
 		Scripts\bootstrap.bundle.min.js = Scripts\bootstrap.bundle.min.js
+		Scripts\bootstrap.bundle.min.js.map = Scripts\bootstrap.bundle.min.js.map
+		Scripts\bootstrap.esm.js = Scripts\bootstrap.esm.js
+		Scripts\bootstrap.esm.js.map = Scripts\bootstrap.esm.js.map
+		Scripts\bootstrap.esm.min.js = Scripts\bootstrap.esm.min.js
+		Scripts\bootstrap.esm.min.js.map = Scripts\bootstrap.esm.min.js.map
+		Scripts\bootstrap.js = Scripts\bootstrap.js
+		Scripts\bootstrap.js.map = Scripts\bootstrap.js.map
+		Scripts\bootstrap.min.js = Scripts\bootstrap.min.js
+		Scripts\bootstrap.min.js.map = Scripts\bootstrap.min.js.map
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Styles", "Styles", "{A18358AA-CE0C-4559-B41E-FF70E2EE7195}"
 	ProjectSection(SolutionItems) = preProject
+		Styles\bootstrap-grid.css = Styles\bootstrap-grid.css
+		Styles\bootstrap-grid.css.map = Styles\bootstrap-grid.css.map
+		Styles\bootstrap-grid.min.css = Styles\bootstrap-grid.min.css
+		Styles\bootstrap-grid.min.css.map = Styles\bootstrap-grid.min.css.map
+		Styles\bootstrap-grid.rtl.css = Styles\bootstrap-grid.rtl.css
+		Styles\bootstrap-grid.rtl.css.map = Styles\bootstrap-grid.rtl.css.map
+		Styles\bootstrap-grid.rtl.min.css = Styles\bootstrap-grid.rtl.min.css
+		Styles\bootstrap-grid.rtl.min.css.map = Styles\bootstrap-grid.rtl.min.css.map
+		Styles\bootstrap-reboot.css = Styles\bootstrap-reboot.css
+		Styles\bootstrap-reboot.css.map = Styles\bootstrap-reboot.css.map
+		Styles\bootstrap-reboot.min.css = Styles\bootstrap-reboot.min.css
+		Styles\bootstrap-reboot.min.css.map = Styles\bootstrap-reboot.min.css.map
+		Styles\bootstrap-reboot.rtl.css = Styles\bootstrap-reboot.rtl.css
+		Styles\bootstrap-reboot.rtl.css.map = Styles\bootstrap-reboot.rtl.css.map
+		Styles\bootstrap-reboot.rtl.min.css = Styles\bootstrap-reboot.rtl.min.css
+		Styles\bootstrap-reboot.rtl.min.css.map = Styles\bootstrap-reboot.rtl.min.css.map
+		Styles\bootstrap-utilities.css = Styles\bootstrap-utilities.css
+		Styles\bootstrap-utilities.css.map = Styles\bootstrap-utilities.css.map
+		Styles\bootstrap-utilities.min.css = Styles\bootstrap-utilities.min.css
+		Styles\bootstrap-utilities.min.css.map = Styles\bootstrap-utilities.min.css.map
+		Styles\bootstrap-utilities.rtl.css = Styles\bootstrap-utilities.rtl.css
+		Styles\bootstrap-utilities.rtl.css.map = Styles\bootstrap-utilities.rtl.css.map
+		Styles\bootstrap-utilities.rtl.min.css = Styles\bootstrap-utilities.rtl.min.css
+		Styles\bootstrap-utilities.rtl.min.css.map = Styles\bootstrap-utilities.rtl.min.css.map
 		Styles\bootstrap.css = Styles\bootstrap.css
+		Styles\bootstrap.css.map = Styles\bootstrap.css.map
 		Styles\bootstrap.min.css = Styles\bootstrap.min.css
+		Styles\bootstrap.min.css.map = Styles\bootstrap.min.css.map
+		Styles\bootstrap.rtl.css = Styles\bootstrap.rtl.css
+		Styles\bootstrap.rtl.css.map = Styles\bootstrap.rtl.css.map
+		Styles\bootstrap.rtl.min.css = Styles\bootstrap.rtl.min.css
+		Styles\bootstrap.rtl.min.css.map = Styles\bootstrap.rtl.min.css.map
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{52469D83-5796-435B-A2E8-A068EF8E987E}"
+	ProjectSection(SolutionItems) = preProject
+		Images\1st page.jpg = Images\1st page.jpg
+		Images\2nd.jpg = Images\2nd.jpg
+		Images\3rd.jpg = Images\3rd.jpg
+		Images\4th.jpg = Images\4th.jpg
+		Images\5th.jpg = Images\5th.jpg
+		Images\6th.jpg = Images\6th.jpg
+		Images\7th.jpg = Images\7th.jpg
+		Images\8th.jpg = Images\8th.jpg
+		Images\9th.jpg = Images\9th.jpg
+		..\..\Pictures\facebook-logo.jpg = ..\..\Pictures\facebook-logo.jpg
+		Images\presskit-1.jpg = Images\presskit-1.jpg
+		Images\presskit-2.jpg = Images\presskit-2.jpg
+		Images\presskit-3.jpg = Images\presskit-3.jpg
+		Images\presskit-4.jpg = Images\presskit-4.jpg
+		Images\presskit-5.jpg = Images\presskit-5.jpg
+		Images\presskit-6.jpg = Images\presskit-6.jpg
+		Images\presskit-7.jpg = Images\presskit-7.jpg
+		Images\presskit-8.jpg = Images\presskit-8.jpg
+		Images\presskit-9.jpg = Images\presskit-9.jpg
 	EndProjectSection
 EndProject
 Global
@@ -27,6 +96,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{156D1090-EA98-4078-AAE9-2DC994FD351C} = {388C184A-278C-4AEF-94B2-AEC95772F486}
 		{A18358AA-CE0C-4559-B41E-FF70E2EE7195} = {388C184A-278C-4AEF-94B2-AEC95772F486}
+		{52469D83-5796-435B-A2E8-A068EF8E987E} = {388C184A-278C-4AEF-94B2-AEC95772F486}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9F0E535A-AD07-49F9-93A9-D361D72451EF}
